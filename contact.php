@@ -165,8 +165,8 @@ include 'includes/header.php';
                             Service *
                         </label>
 
-                        <select id="service" name="service_id">
-                                <option value="Service">
+                        <select id="service" name="service_id" required>
+                                <option value="">
                                     Choose a service
                                 </option>
 
