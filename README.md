@@ -86,4 +86,4 @@ mpumiletseat/
 ## Author
 
 **Ikageng** – Final-year BCom (Information Systems and Management), Rhodes University
-GitHub: [your-username](https://github.com/IkagengThatohatsi)
+GitHub: [IkagengThatohatsi](https://github.com/IkagengThatohatsi)
